@@ -10,6 +10,7 @@
     "@testing-library/user-event": "^13.5.0",
     "api": "^6.1.0",
     "axios": "^1.4.0",
+    "movie-draft": "^0.1.3",
     "node-themoviedb": "^0.2.8",
     "notiflix": "^3.2.6",
     "react": "^18.1.0",
